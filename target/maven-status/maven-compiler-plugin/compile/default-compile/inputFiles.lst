@@ -1,4 +1,12 @@
-/Users/antonpopov/IdeaProjects/ATM/src/main/java/org/example/Account.java
-/Users/antonpopov/IdeaProjects/ATM/src/main/java/org/example/Card.java
-/Users/antonpopov/IdeaProjects/ATM/src/main/java/org/example/Host.java
-/Users/antonpopov/IdeaProjects/ATM/src/main/java/org/example/Balance.java
+/Users/antonpopov/IdeaProjects/ATM/src/main/java/org/example/server/product/AccountTypes.java
+/Users/antonpopov/IdeaProjects/ATM/src/main/java/org/example/client/Client.java
+/Users/antonpopov/IdeaProjects/ATM/src/main/java/org/example/client/ATM.java
+/Users/antonpopov/IdeaProjects/ATM/src/main/java/org/example/interaction/Response.java
+/Users/antonpopov/IdeaProjects/ATM/src/main/java/org/example/server/product/Card.java
+/Users/antonpopov/IdeaProjects/ATM/src/main/java/org/example/server/Host.java
+/Users/antonpopov/IdeaProjects/ATM/src/main/java/org/example/client/Operation.java
+/Users/antonpopov/IdeaProjects/ATM/src/main/java/org/example/server/product/Account.java
+/Users/antonpopov/IdeaProjects/ATM/src/main/java/org/example/interaction/ValidateException.java
+/Users/antonpopov/IdeaProjects/ATM/src/main/java/org/example/Main.java
+/Users/antonpopov/IdeaProjects/ATM/src/main/java/org/example/server/product/Balance.java
+/Users/antonpopov/IdeaProjects/ATM/src/main/java/org/example/interaction/Request.java

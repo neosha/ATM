@@ -1,4 +1,12 @@
-org/example/Balance.class
-org/example/Host.class
-org/example/Card.class
-org/example/Account.class
+org/example/Main.class
+org/example/server/Host.class
+org/example/client/Operation.class
+org/example/interaction/Request.class
+org/example/server/product/AccountTypes.class
+org/example/interaction/ValidateException.class
+org/example/server/product/Balance.class
+org/example/server/product/Card.class
+org/example/interaction/Response.class
+org/example/server/product/Account.class
+org/example/client/ATM.class
+org/example/client/Client.class
